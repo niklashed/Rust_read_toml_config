@@ -1,0 +1,20 @@
+        global_string = "test_config"
+        global_integer = 4
+
+        [[lin_ports]]
+        uart = "tty/AMA0"
+        rib_id = 1
+
+        [[lin_ports]]
+        uart = "tty/AMA1"
+        rib_id = 2
+
+        [[lin_ports]]
+        uart = "tty/AMA2"
+        rib_id = 3
+        
+        [[lin_ports]]
+        uart = "tty/AMA3"
+        rib_id = 4
+
+
